@@ -6,6 +6,7 @@ DEVELOPING MY INTEFACE!!
 I still have to desing how it will be distributed but I more or less know how to create a graphic interface.
 So that's a really big step for me!
 OMW already for building a DB and implementing it to the app.
+My objective for tomorrow is to design the interface & make it look decent.
 
 # 2022/03/16
 Until now I've learned how to create & implement objects.
